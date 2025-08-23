@@ -37,7 +37,7 @@ h1.pulsing {
   position: relative;
   padding: 0 2rem;
   z-index: 2;
-  font-family:monospace;
+  font-family: monospace;
   letter-spacing: 5px;
 }
 
@@ -159,4 +159,5 @@ canvas#confetti-canvas {
     bottom: 160px;
   }
 }
+
 
